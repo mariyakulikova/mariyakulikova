@@ -1,16 +1,34 @@
-## Hi there 👋
+# Mariya Kulikova
 
-<!--
-**mariyakulikova/mariyakulikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend → Backend in progress.  
+Currently studying at [42 Berlin](https://42berlin.de), diving into system-level programming and computer science fundamentals.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Stack in Motion
+
+- **Was**: JavaScript, Vue, HTML/CSS  
+- **Now**: C, C++, Make, Bash, system calls  
+- **Next**: low-level networking, architecture, clean backend design
+
+---
+
+## 🧩 Selected 42 Projects
+
+- [**minishell**](https://github.com/mariyakulikova/minishell): simple Unix shell with pipes, redirects, built-ins  
+- [**push_swap**](https://github.com/mariyakulikova/push_swap): sorting algorithm through stack operations  
+- [**pipex**](https://github.com/mariyakulikova/pipex): pipe chaining with fork/execve and file redirection  
+- [**miniRT**](https://github.com/mariyakulikova/miniRT): basic ray tracer with lighting and object parsing
+
+---
+
+## 📊 What I Mostly Code
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariyakulikova&layout=compact&hide=html&theme=default)
+
+---
+
+## 📫 Get in Touch
+
+- Email: mariya.kulikova818@gmail.com
+
