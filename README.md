@@ -8,7 +8,7 @@ Currently studying at [42 Berlin](https://42berlin.de), diving into system-level
 ## 🛠 Stack in Motion
 
 - **Was**: JavaScript, Vue, HTML/CSS  
-- **Now**: C, C++, Make, Bash, system calls  
+- **Now**: C, C++ 
 - **Next**: low-level networking, architecture, clean backend design
 
 ---
